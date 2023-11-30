@@ -1,0 +1,14 @@
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\bin\Debug\net7.0\entities.deps.json
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\bin\Debug\net7.0\entities.runtimeconfig.json
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\bin\Debug\net7.0\entities.dll
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\bin\Debug\net7.0\entities.pdb
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\entities.csproj.AssemblyReference.cache
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\entities.AssemblyInfoInputs.cache
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\entities.AssemblyInfo.cs
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\entities.csproj.CoreCompileInputs.cache
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\entities.dll
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\refint\entities.dll
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\entities.pdb
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\entities.genruntimeconfig.cache
+D:\Learnings\Sample-Learnings\Sample-Postgre\entities\obj\Debug\net7.0\ref\entities.dll

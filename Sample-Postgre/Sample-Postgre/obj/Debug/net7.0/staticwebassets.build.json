@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7PCQVFWLwGQp1AwqGe4+qClfhbZmu5vF3QHcZycIESE=",
+  "Source": "Sample-Postgre",
+  "BasePath": "_content/Sample-Postgre",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
